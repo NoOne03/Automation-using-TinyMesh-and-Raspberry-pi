@@ -1,5 +1,5 @@
 # Automation-using-TinyMesh-and-Raspberry-pi
-Code is written in python language and well commented.Below installations are as per linux(Ubuntu) operating system.
+Code is written in python language and well commented.Below installations are as per linux(Ubuntu) operating system.Still commands may change over the time
 <H2>Requirements</H2>
 1. Enable serial communication in Raspberry pi (default disabled in pi3)<br>
 2. Serial framework <br>
