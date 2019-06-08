@@ -9,3 +9,7 @@
 2. Run sudo apt-get install python-pip<br>
 3. Run sudo pip install serial<br>
 4. Run sudo pip install MySQL-python (for database users only)
+<H2>NOTE:</H2>
+1. Above is just basic code for TinyMesh automation. Add further according to use<br>
+2. Read TinyMesh Documentaion for better understanding of received data<br>
+3. Read comments for code understanding
